@@ -222,4 +222,8 @@ footer {
     #boxes .box {
         font-size: 10px;
     }
+
+    #showcase {
+        background: url('../img/dark-ocean.jpg') no-repeat  0 -400px;
+    }
 }
