@@ -193,7 +193,8 @@ footer {
     #newsletter form,
     #boxes .box,
     article#main-col,
-    aside#sidebar {
+    aside#sidebar, 
+    #showcase {
         float: none;
         text-align: center;
         width: 100%;
@@ -231,6 +232,7 @@ footer {
     }
 
     #showcase {
-        background: url('../img/dark-ocean.jpg') no-repeat  0 -400px;
+        background: url('../img/dark-ocean.jpg');
+        background-size: cover;
     }
 }
